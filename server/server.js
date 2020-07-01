@@ -1,4 +1,6 @@
 const express = require('express');
+const artistListArray = require('./artist');
+const songListArray = require('./song');
 
 const app = express();
 const PORT = 5000;
