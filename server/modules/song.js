@@ -16,4 +16,4 @@ const songListArray = [{
     },
 ];
 
-module.export = songListArray;
+module.exports = songListArray;
